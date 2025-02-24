@@ -1,0 +1,1 @@
+SELECT COUNT(*) as vendas_totais from vendas
